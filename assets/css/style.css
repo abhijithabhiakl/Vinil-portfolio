@@ -1397,6 +1397,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     align-items: flex-start;
     gap: 18px;
     padding: 30px;
+    
   }
 
   .service-icon-box {
@@ -1404,7 +1405,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-top: 5px;
   }
 
-  .service-content-box { text-align: left; }
+  .service-content-box { text-align: left; 
+    text-align: justify;
+    text-justify: auto;
+  }
 
   /* testimonials */
 
