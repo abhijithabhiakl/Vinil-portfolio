@@ -319,7 +319,7 @@ main {
   max-height: 257px;             /*CHANGE- SIDEBAR HEIGHT*/
   overflow: hidden;
   transition: var(--transition-2);
-   width: 100%;                 
+   width: 99%;                 
                                   /*top side bar width */
 }
 
